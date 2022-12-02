@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xgueret
 - 👀 I’m interested in devops resources
-- 🌱 I’m currently learning Ansible, Terraform and all resources about devops 
+- 🌱 I’m currently learning Ansible, kubernetes, Terraform and all resources about devops 
 
 <!---
 xgueret/xgueret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
